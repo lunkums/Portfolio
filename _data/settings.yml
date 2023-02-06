@@ -12,6 +12,7 @@ menu:
 # Projects Section
 
 projects:
+  - { name: "GRO", url: "gro" }
   - { name: "Chair Force", url: "chair-force" }
 
 #-------------------------------
