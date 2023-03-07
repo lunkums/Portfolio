@@ -3,7 +3,7 @@
 
 .gigantic, .huge, .large, .bigger, .big,
 h1, h2, h3, h4, h5, h6
-  color: $headlineColor
+  color: $lightText
   font-weight: bold
 
 .gigantic
@@ -25,6 +25,7 @@ h1, h2, h3, h4, h5, h6
   line-height: 1.38
 
 .big, h4
+  color: red
   font-size: 22px
   line-height: 1.38
 
@@ -86,11 +87,14 @@ body
 
 /* Basic Styles
   ------------------------------------	*/
+html
+  background-color: $bgcolor
+
 body
-  background: $documentBackgroundColor
+  background-color: $bgcolor
   font-size: 14px
   line-height: 1.6
-  font-family: 'Open Sans', sans-serif
+  font-family: 'Iosevka', monospace, sans-serif
   color: $textColor
   -webkit-font-smoothing: antialiased
   -webkit-text-size-adjust: 100%
