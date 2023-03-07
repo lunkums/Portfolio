@@ -3,7 +3,7 @@ layout: post
 title: "Postmortem: Chair Force"
 ---
 
-{% include image-no-link.html image="blog/postmortem-chair-force/banner.png" %}
+{% include image-no-link.html image="blog/postmortem-chair-force/banner.png" border=true %}
 
 _[Chair Force](./projects/chair-force)_ is a checkerslike made by my dad and me as a design challenge. The idea was to take a simple game like _Checkers_ and turn it into a more interesting and fleshed-out experience. Development began in late December 2022 and officially ended on January 12th, 2023. Overall, I would consider the development a success even though the game is boring and unsatisfying. _Chair Force_ is 1 of 13 games that I must develop before the end of 2023, or face the frightening consequence of shaving my head.
 

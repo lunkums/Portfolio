@@ -3,7 +3,7 @@ layout: post
 title: 'Chair Force'
 ---
 
-{% include image-no-link.html image="projects/chair-force/game.jpg" %}
+{% include image-no-link.html image="projects/chair-force/game.jpg" border=true %}
 
 ## About
 

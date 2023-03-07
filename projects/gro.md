@@ -3,7 +3,7 @@ layout: post
 title: 'GRO'
 ---
 
-{% include image-no-link.html image="projects/gro/thumbnail.jpg" %}
+{% include image-no-link.html image="projects/gro/thumbnail.jpg" border=true %}
 
 Click [here](../games/gro) to play now!
 
