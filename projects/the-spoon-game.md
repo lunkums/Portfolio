@@ -29,12 +29,14 @@ _The Spoon Game_ is a moronic game where you try to flip a spoon onto the back o
 {% include image-no-link.html image="projects/the-spoon-game/position-a.jpg" border=true %}
 <p style="text-align: center">Figure 1. The spoon in position A.</p>
 
+{:start="4"}
 4. Release the spoon and maneuver your hand so that the spoon lands flat on the back of your hand.
 5. The spoon is now in position B. If the spoon stays in position B for at least 1 second, you get 1 point. If the back of the spoon is facing upward, you get an extra point for a total of 2 points.
 
 {% include image-no-link.html image="projects/the-spoon-game/position-b.png" border=true %}
 <p style="text-align: center">Figure 2. The spoon in position B regularly (left) and with the back facing upward (right).</p>
 
+{:start="6"}
 6. If you drop the spoon or it touches anything that isn't your hand, you are out of the game. Go to step 8.
 7. Using only the same hand you used to pinch the spoon, repeat steps 2 through 7.
 8. The game is over when all players are out of the game. The winner is the player with the highest score before they got out. If you're playing by yourself, you are playing to beat your previous high score.
