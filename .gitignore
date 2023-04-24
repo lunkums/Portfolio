@@ -33,3 +33,7 @@ _site
 
 ### Gemfile ###
 Gemfile.lock
+
+### Ruby ###
+.bundle
+vendor

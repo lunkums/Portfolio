@@ -57,6 +57,6 @@ Card distributions are as follows:
 * Gun icon created by [Uswa KDT](https://thenounproject.com/captainbuggy0/) from [Noun Project](https://thenounproject.com/)
 * Helmet icon created by [Rank Sol](https://thenounproject.com/ranksol/) from [Noun Project](https://thenounproject.com/)
 * Leather boot icon created by [Oleksandr Panasovskyi](https://thenounproject.com/a.panasovsky/) from [Noun Project](https://thenounproject.com/)
-* Based on Checkers
+* Based on _Checkers_
 
 Read the postmortem [here](../postmortem-chair-force).
