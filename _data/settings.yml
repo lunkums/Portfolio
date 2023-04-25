@@ -12,8 +12,8 @@ menu:
 # Projects Section
 
 projects:
+  - { name: "Eternitea", url: "eternitea" }
   - { name: "The Spoon Game", url: "the-spoon-game" }
-  - { name: "3D Viewing", url: "3d-viewing" }
   - { name: "GRO", url: "gro" }
   - { name: "Chair Force", url: "chair-force" }
 

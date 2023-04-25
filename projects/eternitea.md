@@ -1,0 +1,4 @@
+---
+layout: eternitea
+title: "Eternitea"
+---
