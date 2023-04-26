@@ -41,7 +41,7 @@ _The Spoon Game_ is a moronic game where you try to flip a spoon onto the back o
 7. Using only the same hand you used to pinch the spoon, repeat steps 2 through 7.
 8. The game is over when all players are out of the game. The winner is the player with the highest score before they got out. If you're playing by yourself, you are playing to beat your previous high score.
 
-#### Additional Rules
+#### Additional Notes
 
 - Pick one hand with which to play. Only this hand may touch the spoon. You can never use both hands.
 - While the spoon is in position A, you may not move your hand until you release (unpinch) the spoon.
