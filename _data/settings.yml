@@ -3,29 +3,30 @@
 # General Site Settings
 
 menu:
-  - { name: "Projects", url: "" }
-  - { name: "Blog", url: "blog" }
-  - { name: "About", url: "about" }
-  - { name: "Contact", url: "contact" }
+    - { name: "Projects", url: "" }
+    - { name: "Blog", url: "blog" }
+    - { name: "About", url: "about" }
+    - { name: "Contact", url: "contact" }
 
 #-------------------------------
 # Projects Section
 
 projects:
-  - { name: "Eternitea", url: "eternitea" }
-  - { name: "The Spoon Game", url: "the-spoon-game" }
-  - { name: "GRO", url: "gro" }
-  - { name: "Chair Force", url: "chair-force" }
+    - { name: "Eternitea", url: "eternitea" }
+    - { name: "Yips", url: "yips" }
+    - { name: "The Spoon Game", url: "the-spoon-game" }
+    - { name: "GRO", url: "gro" }
+    - { name: "Chair Force", url: "chair-force" }
 
 #-------------------------------
 # Contact Section
 
 social:
-  - { icon: "youtube", link: "https://www.youtube.com/@Lunkums" }
-  - { icon: "twitter", link: "https://twitter.com/Lunkums_" }
-  - { icon: "github", link: "https://github.com/lunkums" }
-  - { icon: "linkedin", link: "https://linkedin.com/in/lukeleedy" }
-  - { icon: "envelope", link: "mailto:lukeleedy123@gmail.com" }
+    - { icon: "youtube", link: "https://www.youtube.com/@Lunkums" }
+    - { icon: "twitter", link: "https://twitter.com/Lunkums_" }
+    - { icon: "github", link: "https://github.com/lunkums" }
+    - { icon: "linkedin", link: "https://linkedin.com/in/lukeleedy" }
+    - { icon: "envelope", link: "mailto:lukeleedy123@gmail.com" }
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
 
@@ -35,9 +36,9 @@ social:
 # NOTE: Providing SEO information will make this website more searchable on the internet.
 
 seo:
-  description: "Personal portfolio powered by Jekyll and GitHub Pages "
-  rel-author: "https://plus.google.com/u/0/#"
-  rel-publisher: "https://plus.google.com/u/0/#"
+    description: "Personal portfolio powered by Jekyll and GitHub Pages "
+    rel-author: "https://plus.google.com/u/0/#"
+    rel-publisher: "https://plus.google.com/u/0/#"
 
 #-------------------------------
 # Google Analytics Section
@@ -55,5 +56,5 @@ google-analytics-ua: "UA-112060364-3"
 
 # Change to true for Disqus comments
 disqus:
-  comments: false
-  disqus_shortname: ""
+    comments: false
+    disqus_shortname: ""
