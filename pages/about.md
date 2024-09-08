@@ -8,7 +8,7 @@ permalink: /about
 
 Hi, I'm Luke Leedy. I also go by Lunkums. I love cats and programming.
 
-#### Accomplishments
+#### Personal Git Log
 
 - Walked ~22 miles in one day, from Fairborn to Cedarville, OH
 - Ran a Spartan 5K Sprint
