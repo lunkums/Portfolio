@@ -17,7 +17,7 @@ If there's a free, as in ethically free, copy of the book on the internet, I'll 
 - **Breakfast at Tiffany's** by Truman Capote
 - **The Art of War** by Sun Tzu
 - **Hackers & Painters** by Paul Graham
-  - Excerpt: <https://paulgraham.com/hp.html>
+  - Excerpt: [paulgraham.com](https://paulgraham.com/hp.html)
 - **Full Dark House** by Christopher Fowler
 
 #### 2023
@@ -27,8 +27,8 @@ If there's a free, as in ethically free, copy of the book on the internet, I'll 
 - **A Student's Guide to Liberal Learning** by James V. Schall
 - **Peter Camenzind** by Hermann Hesse
 - **Sun Dogs** by Robert Olen Butler
-- **Game Engine Black Book Doom** by Fabien Sanglard
-  - <https://fabiensanglard.net/gebbdoom/>, <https://github.com/fabiensanglard/gebbdoom>
+- **Game Engine Black Book: Doom** by Fabien Sanglard
+  - [fabiensanglard.net](https://fabiensanglard.net/gebbdoom/), [github.com](https://github.com/fabiensanglard/gebbdoom)
 - **Masters of Doom** by David Kushner
 - **Stardust** by Neil Gaiman
 - **The Pragmatic Programmer** by Andy Hunt and Dave Thomas
@@ -41,7 +41,11 @@ If there's a free, as in ethically free, copy of the book on the internet, I'll 
 
 #### Backlog
 
+- **Data-Oriented Design** by Richard Fabian
+  - [dataorienteddesign.com](https://www.dataorienteddesign.com/dodbook/)
+- **I Am Error** by Nathan Altice
+  - And other books belonging to the "Platform Studies" series: [mitpress.mit.edu](https://mitpress.mit.edu/series/platform-studies/)
 - **Graphics Programming Black Book** by Michael Abrash
-  - <https://www.jagregory.com/abrash-black-book/>
+  - [jagregory.com](https://www.jagregory.com/abrash-black-book/)
 - **Introduction to Compilers and Language Design** by Douglas Thain
-  - <https://www3.nd.edu/~dthain/compilerbook/compilerbook.pdf>
+  - [www3.nd.edu](https://www3.nd.edu/~dthain/compilerbook/compilerbook.pdf)
