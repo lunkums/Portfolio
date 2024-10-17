@@ -12,6 +12,7 @@ If there's a free, as in ethically free, copy of the book on the internet, I'll 
 
 #### 2024
 
+- **Napalm & Silly Putty** by George Carlin
 - **A Walk in the Woods: Rediscovering America on the Appalachian Trail** by Bill Bryson
 - **One More Thing: Stories and Other Stories** by B. J. Novak
 - **Breakfast at Tiffany's** by Truman Capote
