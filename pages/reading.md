@@ -45,6 +45,7 @@ If there's a free, as in ethically free, copy of the book on the internet, I'll 
 
 #### Backlog
 
+- **Computer Power and Human Reason: From Judgment to Calculation** by Joseph Weizenbaum
 - **Data-Oriented Design** by Richard Fabian
   - [dataorienteddesign.com](https://www.dataorienteddesign.com/dodbook/)
 - **I Am Error** by Nathan Altice
