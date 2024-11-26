@@ -45,6 +45,8 @@ If there's a free, as in ethically free, copy of the book on the internet, I'll 
 
 #### Backlog
 
+- **The Architecture of Open Source Applications** by Amy Brown and Greg Wilson
+  - [aosabook.org](https://aosabook.org/en/)
 - **Computer Power and Human Reason: From Judgment to Calculation** by Joseph Weizenbaum
 - **Data-Oriented Design** by Richard Fabian
   - [dataorienteddesign.com](https://www.dataorienteddesign.com/dodbook/)
