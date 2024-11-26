@@ -12,6 +12,7 @@ If there's a free, as in ethically free, copy of the book on the internet, I'll 
 
 #### 2024
 
+- **Hondo** by Louis L'Amour
 - **Foundation** by Isaac Asimov
 - **Slaughterhouse-Five** by Kurt Vonnegut
 - **Napalm & Silly Putty** by George Carlin
