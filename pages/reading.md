@@ -43,6 +43,14 @@ If there's a free, as in ethically free, copy of the book on the internet, I'll 
 
 - **Game Engine Architecture** by Jason Gregory
 
+#### 2020
+
+- **Parable of the Sower** by Octavia E. Butler
+- **The Word for World is Forest** by Ursula K. Le Guin
+- **Cat's Cradle** by Kurt Vonnegut
+- **American Gods** by Neil Gaiman
+- **Frankenstein** by Mary Shelley
+
 #### Backlog
 
 - **The Architecture of Open Source Applications** by Amy Brown and Greg Wilson
