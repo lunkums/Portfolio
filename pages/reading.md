@@ -62,6 +62,10 @@ If there's a free, as in ethically free, copy of the book on the internet, I'll 
 
 #### Backlog
 
+- **Real-Time Collision Detection** by Christer Ericson
+  - [realtimecollisiondetection.net](https://realtimecollisiondetection.net/)
+- **Foundations of Game Engine Development** by Eric Lengyel
+  - [foundationsofgameenginedev.com](https://foundationsofgameenginedev.com/)
 - **The Architecture of Open Source Applications** by Amy Brown and Greg Wilson
   - [aosabook.org](https://aosabook.org/en/)
 - **Computer Power and Human Reason: From Judgment to Calculation** by Joseph Weizenbaum
