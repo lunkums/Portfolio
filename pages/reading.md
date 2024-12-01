@@ -51,6 +51,14 @@ If there's a free, as in ethically free, copy of the book on the internet, I'll 
 - **American Gods** by Neil Gaiman
 - **Frankenstein** by Mary Shelley
 
+#### 2019 & Before
+
+- **The Devil in the White City** by Erik Larson
+- **Zeitoun** by Dave Eggers
+- **A Long Way Gone** by Ishmael Beah
+- **The World Without Us** by Alan Weisman
+- **Star Wars: The Old Republic: Revan** by Drew Karpyshyn
+
 #### Backlog
 
 - **The Architecture of Open Source Applications** by Amy Brown and Greg Wilson
