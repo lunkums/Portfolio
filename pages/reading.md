@@ -12,6 +12,8 @@ If there's a free, as in ethically free, copy of the book on the internet, I'll 
 
 #### 2024
 
+- **Small Gods** by Terry Pratchett
+  - The character Vorbis inspired the name of the popular open source audio codec [Ogg Vorbis](https://www.xiph.org/xiphname.shtml)
 - **Hondo** by Louis L'Amour
 - **Foundation** by Isaac Asimov
 - **Slaughterhouse-Five** by Kurt Vonnegut
